@@ -1,2 +1,3 @@
 Login feature added.
 Hotfix applied.
+Payment feature added.
